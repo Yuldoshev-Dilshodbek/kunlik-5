@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 40px 0;
+}
+
+.header__logo {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.header__img {
+    margin-left: 20px;
+}
+
+.main__jpg {
+    margin-left: 23px;
+    margin-top: -10px;
+}
